@@ -1,3 +1,6 @@
+# THIS CODE IS NOT NEEDED FOR CODE FUNCTION
+# this file is to test out solutions without necessarily messing with the main code
+
 from ultralytics import YOLO
 from utils import read_video, save_video, apply_speed, draw_trails
 
